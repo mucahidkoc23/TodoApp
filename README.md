@@ -1,7 +1,6 @@
 # TodoApp
 
-Bu proje, kullanıcıların görevlerini (To-Do) yönetmelerine olanak tanıyan bir **To-Do uygulamasıdır**. Kullanıcılar, e-posta ve şifre ile kayıt olabilir, giriş yapabilir ve görevlerini yönetebilir. Şifreler **bcrypt** ile güvenli bir şekilde hashlenir ve kimlik doğrulama için **JWT ve çerezler (cookies)** kullanılır.
-
+Bu proje, kullanıcıların görevlerini (To-Do) yönetmelerine olanak tanıyan bir **To-Do uygulamasıdır**. Kullanıcılar, e-posta ve şifre ile kayıt olabilir, giriş yapabilir ve görevlerini yönetebilir. Şifreler **bcrypt** ile güvenli bir şekilde hashlenir.
 ## 🚀 Kullanılan Teknolojiler
 
 ### **Backend (Sunucu Tarafı)**
